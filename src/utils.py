@@ -1,1 +1,0 @@
-url = https://www.consumerfinance.gov/data-research/consumer-complaints/search/api/v1/?date_received_max=2023-09-28&date_received_min=2017-01-01&field=all&format=json&no_aggs=true&size=3422847&sort=created_date_desc"
